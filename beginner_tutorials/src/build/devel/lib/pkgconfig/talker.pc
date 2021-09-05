@@ -1,0 +1,8 @@
+prefix=/home/yms/ws/ros1_application/beginner_tutorials/src/build/devel
+
+Name: talker
+Description: Description of talker
+Version: 0.0.0
+Cflags: -I/home/yms/ws/ros1_application/beginner_tutorials/src/build/devel/include -I/home/yms/ws/ros1_application/beginner_tutorials/src/talker/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs message_runtime

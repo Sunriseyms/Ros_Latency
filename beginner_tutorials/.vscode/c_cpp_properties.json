@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/yms/ws/ros1_catkin_ws/install_isolated/include/**",
+        "/home/yms/ws/ros1_application/beginner_tutorials/src/listener/include/**",
+        "/home/yms/ws/ros1_application/beginner_tutorials/src/talker/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

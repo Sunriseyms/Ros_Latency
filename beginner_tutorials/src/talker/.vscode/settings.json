@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yms/ws/ros1_catkin_ws/install_isolated/lib/python3/dist-packages"
+    ]
+}

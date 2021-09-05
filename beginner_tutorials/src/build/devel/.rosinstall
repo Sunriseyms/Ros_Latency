@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yms/ws/ros1_application/beginner_tutorials/src/build/devel/setup.sh
